@@ -4,6 +4,7 @@ HELP.md
 google-services.json
 build/
 app/release/
+tmp
 
 ### STS ###
 .apt_generated
